@@ -14,7 +14,7 @@ I need some funds to continue developing this library. All contributions gratefu
 
 ### Version history
 - **27 Mar 2018**
- * Modified the library so as to support hooking native 64-bit modules in WoW64 processes.
+  * Modified the library so as to support hooking native 64-bit modules in WoW64 processes.
  
 - **v1.3.3 - 8 Jan 2017**
   * Added a helper function ```MH_CreateHookApiEx```. (Thanks to asm256)
