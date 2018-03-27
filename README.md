@@ -13,7 +13,9 @@ I need some funds to continue developing this library. All contributions gratefu
 <a href='https://pledgie.com/campaigns/27314'><img alt='Click here to lend your support to: MinHook - Help me continue to develop this library and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/27314.png?skin_name=chrome' border='0' ></a>
 
 ### Version history
-
+- **27 Mar 2018**
+ * Modified the library so as to support hooking native 64-bit modules in WoW64 processes.
+ 
 - **v1.3.3 - 8 Jan 2017**
   * Added a helper function ```MH_CreateHookApiEx```. (Thanks to asm256)
   * Support Visual Studio 2017 RC.
